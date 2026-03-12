@@ -1,0 +1,4 @@
+gradio
+tensorflow
+music21
+numpy
